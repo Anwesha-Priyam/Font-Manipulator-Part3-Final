@@ -1,4 +1,4 @@
-console.log("trial1? :O");
+console.log("trial uncountable? finally working! yay! :O");
 
 noseX=0;
 noseY=0;
